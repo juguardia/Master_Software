@@ -1,2 +1,4 @@
 # Master_Software
-Repositorio para entrega grupal de software 
+Repositorio para entrega grupal de software  
+
+Grupo: 
